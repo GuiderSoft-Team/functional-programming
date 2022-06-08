@@ -7,6 +7,8 @@ public class MainLambdaRet {
         System.out.println(calc);
 
 
+
+
         Square k2=new Square() {
             @Override
             public int calc(int value) {
